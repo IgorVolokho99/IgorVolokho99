@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I'm currently working on a high frequency trading project;
-- 🌱 I’m currently learning math, Backend, AI, Big Data, DevOps;
+- 🌱 I’m currently learning math, Backend, AI;
 - 👯 I'm looking for a collaboration on going to a bar;
 - 🤔 I’m looking for help with a couple of beers.
 - ⚡ Everything here is so cool, so authentic.
