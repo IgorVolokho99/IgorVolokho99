@@ -1,8 +1,6 @@
 ## Hi there 👋
 - 🔭 I'm currently working on a high frequency trading project;
 - 🌱 I’m currently learning math, Backend, AI;
-- 👯 I'm looking for a collaboration on going to a bar;
-- 🤔 I’m looking for help with a couple of beers;
 <!--
 **IgorVolokho99/IgorVolokho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
