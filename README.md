@@ -1,6 +1,7 @@
 ## Hi there 👋
-- 🔭 I'm currently working on a high frequency trading project;
+- 🔭 I have a pet project related to chess;
 - 🌱 I’m currently learning math, Backend, AI;
+- ⚡ I solve algorithms in leetcode, codewars, and yandex run.
 <!--
 **IgorVolokho99/IgorVolokho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
